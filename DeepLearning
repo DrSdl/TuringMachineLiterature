@@ -1,0 +1,61 @@
+Here are some popular deep learning resources:
+
+Tensorflow:            https://www.tensorflow.org/
+Tensorflow Tutorials:  https://www.tensorflow.org/tutorials/ 
+Tensorflow Github:     https://github.com/tensorflow/tensorflow
+
+Keras Docu:         https://keras.io/  
+Keras Github:       https://github.com/fchollet/keras
+Keras Autoenconder: https://blog.keras.io/building-autoencoders-in-keras.html
+
+How to Visualize Your Recurrent Neural 
+Network with Attention in Keras:                    https://medium.com/datalogue/attention-in-keras-1892773a4f22
+Deep Learning for NLP Best Practices:               http://ruder.io/deep-learning-nlp-best-practices/
+Deep Q-Learning with Keras and Gym · Keon's Blog:   https://keon.io/deep-q-learning/
+Using Keras and Deep Q-Network to Play FlappyBird:  https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
+Demystifying Deep Reinforcement Learning:           http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
+Simple Reinforcement Learning with Tensorflow 
+Part 0: Q-Learning with Tables and Neural Networks: https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
+CNGAN An implementation of DCGAN in Tensorflow:     https://gist.github.com/awjuliani/8ebf356d03ffee139659807be7fa2611#file-dcgan-ipynb
+RL Teaching:                                        http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+Reinforcement learning with policy gradient
+MinPy 0.3.4 documentation:                          http://minpy.readthedocs.io/en/latest/tutorial/rl_policy_gradient_tutorial/rl_policy_gradient.html
+Deep Reinforcement Learning: Pong from Pixels:      http://karpathy.github.io/2016/05/31/rl/       
+The Unreasonable Effectiveness of Recurrent 
+Neural Networks:                                    http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+Facebook AI Research (FAIR) – Facebook Research:    https://research.fb.com/category/facebook-ai-research-fair/
+Deep Learning for Chatbots, 
+Part 1 – Introduction – WildML:                     http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
+How to Check-Point Deep Learning Models in Keras,
+Machine Learning Mastery:                           http://machinelearningmastery.com/check-point-deep-learning-models-keras/
+
+Stanford CS224n Natural Language Processing with Deep Learning    http://web.stanford.edu/class/cs224n/reports.html
+Stanford Speech and Language Processing                           https://web.stanford.edu/~jurafsky/slp3/
+Stanford CS124 - From Languages to Information (Winter 2017)      http://web.stanford.edu/class/cs124/
+
+WordNet Search - 3.1: http://wordnet.princeton.edu/
+
+Deepmind deepmind/learning-to-learn, 
+Learning to Learn in TensorFlow:                        https://github.com/deepmind/learning-to-learn
+t-SNE – Laurens van der Maaten:                         https://lvdmaaten.github.io/tsne/
+Building a Deep Learning (Dream) Machine 
+Machine Ponderings:                                     http://graphific.github.io/posts/building-a-deep-learning-dream-machine/
+Arxiv Sanity Preserver:                                 http://www.arxiv-sanity.com/
+ConvNetJS: Deep Learning in your browser                http://cs.stanford.edu/people/karpathy/convnetjs/
+Yann LeCun's Home Page                                  http://yann.lecun.com/
+Jürgen Schmidhuber Home Page                            http://people.idsia.ch/~juergen/
+THEORY OF UNIVERSAL LEARNING MACHINES & UNIVERSAL AI    http://people.idsia.ch/~juergen/unilearn.html
+DeepLearning MIT project                                http://www.deeplearningbook.org/contents/ml.html
+Recurrent Neural Networks in Tensorflow I - R2RT        https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html
+
+deepart.io - become a digital artist                                       https://deepart.io/
+The Neural Network Zoo - The Asimov Institute                              http://www.asimovinstitute.org/neural-network-zoo/
+OpenAI                                                                     https://openai.com/
+Evolution Strategies as a Scalable Alternative to Reinforcement Learning   https://blog.openai.com/evolution-strategies/  
+
+
+
+
+
+
+
