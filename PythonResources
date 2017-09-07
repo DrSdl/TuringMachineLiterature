@@ -1,0 +1,25 @@
+Welcome to Python                   https://www.python.org/
+Python Tutorial                     https://docs.python.org/3/tutorial/
+
+Python Numpy                        http://www.numpy.org/
+Numphy Tutorial                     https://docs.scipy.org/doc/
+Numphy Tutorial Standord            http://cs231n.github.io/python-numpy-tutorial/          
+
+Scikit Learn                        http://scikit-learn.org/stable/index.html
+
+Matplotlib                          https://matplotlib.org/
+Matplotlib lectures                 http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html
+ggpy Plot                           http://yhat.github.io/ggpy/
+scikit Plot                         https://pypi.python.org/pypi/scikit-plot
+                                    https://github.com/reiinakano/scikit-plot
+Seaborn Plot                        https://github.com/mwaskom/seaborn
+Holoviews Plot                      http://holoviews.org/
+Datashader Plot                     https://github.com/bokeh/datashader
+                                    http://datashader.readthedocs.io/en/latest/
+                                    
+Vega - a visual grammar                        https://vega.github.io/vega/
+Vega-Lite – A Grammar of Interactive Graphics  https://vega.github.io/vega-lite/
+mpld3 - Bringing Matplotlib to the Browser     http://mpld3.github.io/
+
+Tensorflow with Python Stanford                        https://github.com/chiphuyen/stanford-tensorflow-tutorials
+Implementing a Neural Network from Scratch in Python   http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
