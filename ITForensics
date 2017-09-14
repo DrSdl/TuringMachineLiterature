@@ -13,6 +13,7 @@ Nslookup Common Usage examples                             https://blog.thesysad
 How-To Geek Using Traceroute                               https://www.howtogeek.com/134132/how-to-use-traceroute-to-identify-network-problems/
 The Heartbleed SSL bug                                     https://www.troyhunt.com/everything-you-need-to-know-about3/
 Schneier on Security                                       https://www.schneier.com/
+TCPdump tutorial                                           https://openmaniak.com/tcpdump.php
 
 Visualizations of worldwide cyberthreat activity
 
@@ -24,8 +25,15 @@ Norse Corporation                                          http://map.norsecorp.
 
 Tools
 
-Codenomicon                http://www.codenomicon.com/
-SNORT                      https://www.snort.org/
-pfSense Firewall           https://www.pfsense.org/
-OPNsense Firewall          https://opnsense.org/
-
+Codenomicon                               http://www.codenomicon.com/
+AccessData                                http://www.accessdata.com/
+SNORT                                     https://www.snort.org/
+pfSense Firewall                          https://www.pfsense.org/
+OPNsense Firewall                         https://opnsense.org/
+The Bro Network Security Monitor          https://www.bro.org/
+Nmap port scanner                         https://nmap.org/download.html
+Nessus vulnerarbility scanner             http://www.openvas.org/index-de.html
+Wireshark network analysis                https://www.wireshark.org/
+Scapy Project                             http://www.secdev.org/projects/scapy/
+Metasploit: Penetration Testing Software  https://www.metasploit.com/
+SiLK - CERT NetSA Security Suite          https://tools.netsa.cert.org/silk/
