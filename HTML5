@@ -14,3 +14,42 @@ HTML5 - Responsive Web Design                  https://msdn.microsoft.com/en-us/
 HTML Service: Create and Serve HTML            https://developers.google.com/apps-script/guides/html/
 Web Fundamentals Google Dev                    https://developers.google.com/web/fundamentals/
 
+Browser compatibility                         http://html5test.com
+Browser compatibility tables                  http://quirksmode.org
+W3C Webdesign references                      http://www.w3.org/standards/webdesign/
+ECMA 262                                      http://www.ecma-international.org/publications/standards/Ecma-262.htm 
+The MVVM pattern                              https://msdn.microsoft.com/en-us/library/hh848246.aspx
+
+
+Frameworks & Libs
+Modernizr           http://modernizr.com/
+Ember               http://emberjs.com/
+Bootstrap           http://getbootstrap.com/
+Bootstrap Expo      http://expo.getbootstrap.com/
+jQuery              https://jquery.com/
+AngularJS           https://angularjs.org/
+MeteorJS            https://www.meteor.com/
+NodeJS              https://nodejs.org/
+ReactJS             http://facebook.github.io/react
+KnockoutJS          http://knockoutjs.com/
+BackboneJS          http://backbonejs.org/
+OpenUI5             http://openui5.org
+
+Tools
+Plunker             http://plnkr.co/
+Auth0               https://auth0.com
+Notepad++           https://notepad-plus-plus.org/
+emacs               https://www.gnu.org/software/emacs/
+VI Reference        https://de.wikibooks.org/wiki/Vi-Befehlsreferenz:_Bearbeitung
+Atom Editor         https://atom.io/
+Brackets Editor     http://brackets.io/
+PyCharm             https://www.jetbrains.com/pycharm/
+Adobe Dreamweaver   http://www.adobe.com/de/products/dreamweaver.html
+Visual Studio Code  https://code.visualstudio.com/
+CodePen             https://codepen.io/#
+Git                 https://git-scm.com/
+Git Book            https://git-scm.com/book
+Git GUI Kraken      https://www.gitkraken.com/
+Git GUI Desktop     https://desktop.github.com/
+
+
